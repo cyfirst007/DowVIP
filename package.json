@@ -1,0 +1,20 @@
+{
+  "name": "vipdow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.7"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "fs": "^0.0.1-security",
+    "log4js": "^6.9.1",
+    "tesseract.js": "^5.0.2"
+  }
+}
